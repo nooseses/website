@@ -4,11 +4,19 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-#Intro{
+#intro{
     color:rgb(62, 255, 252);
 }
 
-.highlight{
-    color:rgb(98, 255, 81);
-    font-weight: bold;
+#introText{
+    width: 700;
+    float: left;
+}
+
+#introPicture{
+    float: left;
+}
+
+.reset{
+    clear: both;
 }
