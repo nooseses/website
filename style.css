@@ -1,6 +1,5 @@
 body {
     background-color: rgb(116, 98, 218);
-    margin: 0px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -9,12 +8,17 @@ body {
 }
 
 #introText{
-    width: 700;
+    margin: 20px;
+    width: 900px;
     float: left;
+    
 }
 
 #introPicture{
-    float: left;
+}
+
+#hobbies{
+    margin: 40px;
 }
 
 .reset{
