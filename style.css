@@ -1,6 +1,11 @@
 body {
     background-color: rgb(116, 98, 218);
+    margin: 0px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    margin: 0px;    
 }
 
 #intro{
@@ -11,14 +16,20 @@ body {
     margin: 20px;
     width: 900px;
     float: left;
-    
 }
 
 #introPicture{
+    margin: 20px 0px 20px 0px;
+    float: left;
+}
+
+#hobbies h2{
+    margin: 40px;
 }
 
 #hobbies{
-    margin: 40px;
+    width: 500px;
+    float: left;
 }
 
 .reset{
